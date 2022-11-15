@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/sqlite_database_demo/BuildConfig.java
+ com.example.sqlite_database_demo.BuildConfig
